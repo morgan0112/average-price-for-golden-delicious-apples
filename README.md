@@ -1,1 +1,1 @@
-# regression-model
+# Linear Regression Model
