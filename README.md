@@ -10,8 +10,8 @@ Providing an accurate and robust solution for users to be able to accurately det
 - Import Data
   - Importing train and test datasets
 - Pre-processing
-  - Change Date column into Day and Month columns
   - Checking for missing or null values
+  - Change Date column into Day and Month columns
   - Filter data
 - Exploratory Data Analysis
   - Univariate Analysis
