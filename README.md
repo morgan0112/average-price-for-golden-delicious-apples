@@ -5,8 +5,9 @@ Providing an accurate and robust solution for users to be able to accurately det
 - Import Packages
   - numpy for mathemticial calculations
   - pandas to read and store data as Data Frames
-  - plotly for visualisations
-  - scikit learn for Regression Models, Model Selection, Pre-processing and Metrics
+  - matplotlib and seaborn for visualisations
+  - scikit learn for Regression Modeling, Model Selection, Pre-processing and Metrics
+  - xgboost for Regression Modeling
 - Import Data
   - Importing train and test datasets
 - Pre-processing
@@ -22,3 +23,4 @@ Providing an accurate and robust solution for users to be able to accurately det
   - Ridge Regression
   - XGBoost
  - Predict Deployment
+ - Conclusion
